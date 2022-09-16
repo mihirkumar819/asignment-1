@@ -1,0 +1,3 @@
+I learnt about the Flex Display,its implementation and its utility.
+How to add multiple boxes in a container and how to display using Flex
+I took the references from https://developer.mozilla.org/en-US/docs/web/css/flex#description
